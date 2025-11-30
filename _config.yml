@@ -1,9 +1,10 @@
 title: Paul Delor # your name (or website title) here
 logo: "images/GitHub New Profile.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I contribute to transformation initiatives at Odido, applying advanced analytics, data science, and machine learning to improve operations and decision-making.
+  I contribute to transformation initiatives at Odido, applying advanced analytics, data science, and ML to improve operations and decision-making.
   <br><br>
   Before this, I studied at the Oxford Department of International Development, deepening my interest in anticipatory action modeling. 
+  <br><br>
   <a href="https://www.linkedin.com/in/pauldelor/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
